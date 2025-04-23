@@ -3,7 +3,10 @@ RaspberryPi 5 LED
 
 This serves as a first project on Github to gain a better understanding of how to use this enviroment. 
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> origin/main
 ```mermaid
 flowchart TD
     A[Start: Raspberry Pi Boot] --> B[Initialize GPIO Pins]
@@ -18,5 +21,8 @@ flowchart TD
     J --> K[End]
     F --> D
 ```
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> origin/main
