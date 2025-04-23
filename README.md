@@ -15,6 +15,3 @@ flowchart TD
     I --> J[LED Turns Off]
     J --> K[End]
     F --> D
-
-<pre> ```mermaid graph TD; A[Start] --> B[Process]; B --> C[Decision]; C -->|Yes| D[End]; C -->|No| B; ``` </pre>
->>>>>>> 880eda6862020cad2902de1d0037eaf08d4290b2
